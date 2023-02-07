@@ -17,6 +17,7 @@ Features:
 
 Check sample video to understand:
 [Note: The ui will look better in windows as this program uses some cool preinstalled fonts of windows.]
+
 https://user-images.githubusercontent.com/119154806/217190958-dbf63741-5885-4eda-9629-be46e601537b.mp4
 
 Check the code:
