@@ -21,13 +21,13 @@ https://user-images.githubusercontent.com/119154806/217190958-dbf63741-5885-4eda
 
 Check the code:
 
-import java.awt.*;
-import java.io.IOException;
-import java.net.*;
-import javax.sound.sampled.*;
-import javax.swing.*;
+	import java.awt.*;
+	import java.io.IOException;
+	import java.net.*;
+	import javax.sound.sampled.*;
+	import javax.swing.*;
 
-public class MyFrame extends JFrame {
+	public class MyFrame extends JFrame {
 
 	JLabel labels[] = new JLabel[17];
 	URL imageURL, imageURL2, imageURL3, imageURL4, imageURL5, imageURL6, imageURL7;
@@ -173,5 +173,5 @@ public class MyFrame extends JFrame {
 		clip.start();
 		anim();
 	}
-}
+	}
 
