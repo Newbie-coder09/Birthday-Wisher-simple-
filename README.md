@@ -175,3 +175,8 @@ Check the code:
 	}
 	}
 
+Info about code:
+* Change the NAME in code and AYUSH with the name of wisher.
+* Modify the code to add poppers or more balloons and it will look awesome.
+
+Thanks for using my codes, kindly check my other repos as well.
